@@ -470,7 +470,7 @@ input, select, textarea {
 		}
 
 			.row.gtr-50 > * {
-				padding: 0 0 0 1em;#1e2238
+				padding: 0 0 0 1em;
 			}
 
 			.row.gtr-50.gtr-uniform {
@@ -3202,7 +3202,7 @@ input, select, textarea {
 						right: 1.5em;
 						top: 0;
 						vertical-align: middle;
-						width: 24px;#2a2f4a
+						width: 24px;
 					}
 
 					#header nav a[href="#menu"]:after {
